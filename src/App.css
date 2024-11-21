@@ -1,0 +1,15 @@
+#header{
+  padding: 20px;
+  background-color: blue;
+  color: #fff;
+  font-size: 2em;
+}
+.left-bar{
+  background-color: #eee;
+  width: 25%;
+  border-right: 1px solid #ccc;
+  height: 100vh;
+}
+.main-container{
+  display: flex;
+}
